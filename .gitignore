@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE (PyCharm/IntelliJ)
+.idea/
+*.iml
+
+# Data files (large - provide download link instead)
+*.xlsx
+*.xls
+*.csv
+Customer_understanding_kmeans.xlsx
+
+# Environment
+venv/
+env/
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+~$*
